@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Gajjela Srikanth",
+      "password": "admin",
+      "email": "srikanth@gmail.com",
+      "phone": "7894465",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "ganapathi",
+      "name": "Ganpathi ch",
+      "password": "123456",
+      "email": "ganapathi@gmail.com",
+      "phone": "75165416",
+      "country": "india",
+      "address": "fhhdugf",
+      "gender": "male"
+    },
+    {
+      "id": "bharath",
+      "name": "Bharath Reddy",
+      "password": "123456",
+      "email": "bharath@gmail.com",
+      "phone": "77656564",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "manoj",
+      "name": "manoj ",
+      "password": "manoj",
+      "email": "manoj@gmai.com",
+      "phone": "48545",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    }
+  ]
+}
